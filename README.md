@@ -64,4 +64,4 @@ Hier houd ik mijn voortgang bij, inclusief certificaten, notities, code en portf
 Week 1 gestart → Repo opgezet en plan toegevoegd ✅
 
 ## Certificates
-- [Elements of AI – Introduction](certs/certificate-elements-of-ai-nl)
+- [Elements of AI – Introduction](certs/certificate-elements-of-ai-nl.png)
