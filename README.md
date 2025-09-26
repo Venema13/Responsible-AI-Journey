@@ -46,13 +46,9 @@ Hier houd ik mijn voortgang bij, inclusief certificaten, notities, code en portf
 ---
 
 ## 📂 Repo-structuur (planning)
-Responsible-AI-Journey/
-│
-├── notebooks/ # Jupyter & Colab notebooks
-├── docs/ # Notities, samenvattingen, checklists
-├── blog/ # Kopieën van blogposts
-├── certificates/ # Behaalde certificaten (PDF/PNG)
-└── README.md # Dit bestand
+/docs → documentatie en notities
+/src → code en scripts
+/assets → afbeeldingen of andere bestanden
 
 
 ---
