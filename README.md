@@ -1,67 +1,29 @@
-# Responsible-AI-Journey 🚀
+# AI Learning Skills – Mijn Eerste Project
 
-Welkom bij mijn 52-weken leerreis naar **AI Ethics & Compliance Specialist**.  
-Ik volg een gestructureerd plan van 1 jaar (≈ 15 uur per week) met gratis bronnen en praktijkopdrachten.  
-Hier houd ik mijn voortgang bij, inclusief certificaten, notities, code en portfolio-projecten.  
+Welkom in mijn eerste GitHub project! 🚀  
+Dit project gebruik ik om te leren werken met AI, GitHub en om stap voor stap mijn eigen AI-skills op te bouwen.
 
----
+## 📌 Doel van dit project
+- Leren werken met GitHub (repo, issues, milestones, pull requests).
+- Documenteren van mijn AI-leerproces.
+- Kleine AI-projecten en experimenten opzetten.
 
-## 📅 Jaarplanning in 4 fases
+## 📂 Structuur
+/docs    → documentatie en notities
+/src     → code en scripts
+/assets  → afbeeldingen of andere bestanden
 
-### Fase 1 – Core AI + Ethics Foundations (Week 1-13)
-- UNESCO certificaat **Ethics of AI**
-- Eerste AI-notebooks (Fairness, Bias)
-- Eerste blogposts over ethiek en AI
+## ✅ Huidige mijlpaal
+**Versie 1.0**  
+- Eerste README maken  
+- Projectstructuur neerzetten  
+- Eerste script of notebook toevoegen  
 
-### Fase 2 – Bias, Fairness & Documentation (Week 14-26)
-- Bias notebooks met Fairlearn & IBM AIF360
-- GDPR & AI-Act notities
-- Eerste **Model Card** en **Data Card**
+## 🔮 Toekomstige ideeën
+- Automatiseringen bouwen met AI-tools
+- Kleine freelance-projecten testen
+- Blogposts/artikelen over AI leren en publiceren
 
-### Fase 3 – Regulations & Governance (Week 27-39)
-- EU AI Act, ISO/IEC 42001 samenvattingen
-- Compliance checklist + auditplan
-- SHAP & LIME explainability notebooks
-
-### Fase 4 – Advanced Topics & Job Prep (Week 40-52)
-- Bias dashboard met Streamlit
-- Volledig portfolio + publieke Notion playbook
-- Certificaten + sollicitatievoorbereiding
-
----
-
-## 🏆 Portfolio Deliverables
-
-- 📜 UNESCO “Ethics of AI” certificaat  
-- 📜 Google Responsible-AI badge  
-- 📜 OpenLearn “Data Ethics” certificaat  
-- 📓 Minimaal 8 Jupyter notebooks (Fairlearn, AIF360, SHAP, etc.)  
-- 📄 Model Card + Data Card  
-- ✅ Compliance checklist & audit plan  
-- 📊 Streamlit bias dashboard (live demo)  
-- 📚 Blogserie (min. 5 posts)  
-- 🎥 Capstone video demo  
-- 💼 CV + LinkedIn update voor Responsible-AI rollen  
-
----
-
-## 📂 Repo-structuur (planning)
-/docs → documentatie en notities
-/src → code en scripts
-/assets → afbeeldingen of andere bestanden
-
-
----
-
-## 🌍 Connecties
-
-- AI Ethics Slack community: [aiethics.community](https://aiethics.community)  
-- LinkedIn: www.linkedin.com/in/bobby-venema-86b10024
-
----
-
-✍️ **Update log:**  
-Week 1 gestart → Repo opgezet en plan toegevoegd ✅
-
-## Certificates
-- [Elements of AI – Introduction](certs/certificate-elements-of-ai-nl.png)
+## 👤 Auteur
+Dit project is gemaakt door **Bobby Venema**.  
+Doel: leren, groeien en op termijn overstappen van de offshore naar AI.
