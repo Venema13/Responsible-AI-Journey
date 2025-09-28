@@ -66,6 +66,6 @@ Week 2 files: AI terms + blog + project structure
 
 
 ## Certificates
-- [Elements of AI – Introduction](certs/certificate-elements-of-ai-nl.png)
-- [
-
+- [Elements of AI](certs/certificate-elements-of-ai-nl.png)
+- [De Nationale AI cursus - AI en Ethiek](certs/AEE-58821309.pdf)
+- [De Nationale AI cursus - AI AI-Geletterdheid](certs/BAG-58821309.pdf)
