@@ -69,4 +69,4 @@ Hier houd ik mijn voortgang bij, inclusief certificaten, notities, code en portf
 ## Certificates
 - [Elements of AI](certs/certificate-elements-of-ai-nl.png)
 - [De Nationale AI cursus - AI en Ethiek](certs/AEE-58821309.pdf)
-- [De Nationale AI cursus - AI AI-Geletterdheid](certs/BAG-58821309.pdf)
+- [De Nationale AI cursus - AI-Geletterdheid](certs/BAG-58821309.pdf)
