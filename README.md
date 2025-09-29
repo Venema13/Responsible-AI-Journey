@@ -61,9 +61,13 @@ Hier houd ik mijn voortgang bij, inclusief certificaten, notities, code en portf
 ---
 
 ✍️ Update log:
-Week 1 gestart → Repo opgezet en plan toegevoegd ✅
-Week 2 afgerond → Elements of AI cursus + AI termen toegevoegd ✅
-Week 3 bezig → Python basics gestart ✅
+Week 1 gestart → Repo opgezet en plan toegevoegd. ✅
+
+Week 2 afgerond → Elements of AI cursus + AI termen toegevoegd. ✅
+
+Week 3 argerond → 50 Python-oefeningen afgerond (freeCodeCamp). ✅
+
+Week4 afgerond → Statistics 101 afgerond (Khan Academy). ✅
 
 
 ## Certificates
