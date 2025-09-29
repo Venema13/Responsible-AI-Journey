@@ -61,13 +61,24 @@ Hier houd ik mijn voortgang bij, inclusief certificaten, notities, code en portf
 ---
 
 ✍️ Update log:
-Week 1 gestart → Repo opgezet en plan toegevoegd. ✅
 
-Week 2 afgerond → Elements of AI cursus + AI termen toegevoegd. ✅
+## ✅ Voortgang per week
 
-Week 3 argerond → 50 Python-oefeningen afgerond (freeCodeCamp). ✅
+- **Week 1:** Repo gestart + AI Ethics Slack joined.  
+- **Week 2:** Elements of AI cursus + AI termen toegevoegd.
+- **Week 3:** 50 Python-oefeningen afgerond (freeCodeCamp).  
+- **Week 4:** Statistics 101 afgerond (Khan Academy).  
+  - 📂 Bestand toegevoegd: `week4/stats_exercises.md`  
+  - 10 oefenopgaven uitgewerkt met gemiddelde, mediaan, modus en kansrekening  
+  - ✨ Belangrijkste inzichten: basis statistiek en kansberekening cruciaal voor AI fairness  
 
-Week4 afgerond → Statistics 101 afgerond (Khan Academy). ✅
+- **Week 5:** Intro to Ethics afgerond  
+  - 📂 Bestand toegevoegd: `week5/ethics_blog.md`  
+  - Blog geschreven: *“Why Ethics Matters in AI”*  
+  - ✨ Belangrijkste inzichten:  
+    1. AI kan bias en fouten maken, zelfs in simpele toepassingen  
+    2. Eerlijkheid, transparantie en privacy zijn essentieel  
+    3. Ethiek helpt AI veilig en betrouwbaar te maken  
 
 
 ## Certificates
