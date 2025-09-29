@@ -60,11 +60,11 @@ Hier houd ik mijn voortgang bij, inclusief certificaten, notities, code en portf
 
 ---
 
-✍️ **Update log:**  
-- Week 1 gestart → Repo opgezet en plan toegevoegd ✅
-- Week 2 files: AI terms + blog + project structure ✅
-- Week 3 bezig → Python basics gestart ✅
- 
+✍️ Update log:
+Week 1 gestart → Repo opgezet en plan toegevoegd ✅
+Week 2 afgerond → Elements of AI cursus + AI termen toegevoegd ✅
+Week 3 bezig → Python basics gestart ✅
+
 
 ## Certificates
 - [Elements of AI](certs/certificate-elements-of-ai-nl.png)
