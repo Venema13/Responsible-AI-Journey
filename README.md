@@ -55,7 +55,7 @@ Hier houd ik mijn voortgang bij, inclusief certificaten, notities, code en portf
 
 ## 🌍 Connecties
 
-- AI Ethics Slack community: [All Tech is Human](all-tech-is-human.slack.com)
+- AI Ethics Slack community: [All Tech is Human](https://all-tech-is-human.slack.com)
 - LinkedIn: www.linkedin.com/in/bobby-venema-86b10024
 
 ---
