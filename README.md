@@ -90,6 +90,7 @@ Here I track my progress: certificates, notes, code, and projects.
 
 ## 📜 Certificates  
 
-- Elements of AI  
-- The National AI Course – AI and Ethics  
-- The National AI Course – AI Literacy  
+- [University of Helsinki - Elements of AI](certs/certificate-elements-of-ai-nl.png)
+- [The National AI Course – AI and Ethics](certs/AEE-58821309.pdf)
+- [The National AI Course – AI Literacy](certs/BAG-58821309.pdf) 
+- [University of Helsinki - Ethics of AI]
