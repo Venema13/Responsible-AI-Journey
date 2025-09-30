@@ -94,7 +94,7 @@ Here I track my progress: certificates, notes, code, and projects.
 
 ✨ Key insights:  
 - **Ethics:** Bias is often hidden in datasets. Checking group differences early prevents unfair outcomes.  
-- **Security/Privacy:** Small steps like website testing and anonymized test data reduce risk and improve safety.  
+- **Security/Privacy:** Even large websites have privacy weaknesses. Small tools like Mozilla Observatory and anonymization scripts improve safety.  
 
 ---
 
