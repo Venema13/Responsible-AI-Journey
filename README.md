@@ -52,13 +52,15 @@ Here I track my progress: certificates, notes, code, and projects.
 
 ---
 
-## 📂 Repo Structure (planning)  
+## 📂 Repo Structure  
 
-/docs     → documentatie en notities  
-/src      → code en scripts  
-/assets   → afbeeldingen of andere bestanden  
-/weeks    → voortgang per week (notities, oefeningen, projecten)  
-
+/docs       → Documentation and notes  
+/src        → Code and scripts  
+/assets     → Images or other files  
+/weeks      → Weekly progress (notes, exercises, projects)  
+/weeks/week6/ethics/       → Bias notebook & notes  
+/weeks/week6/privacy/      → Privacy test report & fake data script  
+/weeks/week6/portfolio/    → Blog drafts ready for Medium/LinkedIn  
 
 ---
 
@@ -74,7 +76,7 @@ Here I track my progress: certificates, notes, code, and projects.
 **Week 1:** Repo created + joined AI Ethics Slack.  
 **Week 2:** Completed Elements of AI course + added AI terms.  
 **Week 3:** Finished 50 Python exercises (freeCodeCamp).  
-**Week 4:** Completed Statistics 101 (Khan Academy).  
+**Week 4:** Completed Statistics 101 (Khan Academy)  
 📂 File added: `week4/stats_exercises.md`  
 ✨ Key insight: basic statistics and probability are crucial for AI fairness  
 
@@ -82,15 +84,23 @@ Here I track my progress: certificates, notes, code, and projects.
 📂 File added: `week5/ethics_blog.md`  
 ✨ Key insight: AI can make mistakes and bias, ethics helps make AI safe and trustworthy  
 
-**Week 6:** Started Security basics  
-📂 File added: `week6/security_notes.md`  
-✨ Key insight: encryption (Caesar cipher, hashing), password protection, and the importance of *defense in depth* as a foundation for AI Security  
+**Week 6:** Bias & Security/Privacy Basics  
+📂 Files added:  
+- `week6/ethics/bias_titanic.ipynb` → Bias analysis notebook  
+- `week6/privacy/privacy_test_report.md` → Mozilla Observatory privacy/security test report  
+- `week6/privacy/fake_data_generator.py` → Python script for generating anonymized data  
+- `week6/portfolio/bias_article.md` → Blog post on AI bias  
+- `week6/portfolio/privacy_article.md` → Blog post on Privacy/Security  
+
+✨ Key insights:  
+- **Ethics:** Bias is often hidden in datasets. Checking group differences early prevents unfair outcomes.  
+- **Security/Privacy:** Small steps like website testing and anonymized test data reduce risk and improve safety.  
 
 ---
 
 ## 📜 Certificates  
 
-- [University of Helsinki - Elements of AI](certs/certificate-elements-of-ai-nl.png)
-- [The National AI Course – AI and Ethics](certs/AEE-58821309.pdf)
-- [The National AI Course – AI Literacy](certs/BAG-58821309.pdf) 
-- [University of Helsinki - Ethics of AI]
+- [University of Helsinki - Elements of AI](certs/certificate-elements-of-ai-nl.png)  
+- [The National AI Course – AI and Ethics](certs/AEE-58821309.pdf)  
+- [The National AI Course – AI Literacy](certs/BAG-58821309.pdf)  
+- [University of Helsinki - Ethics of AI]  
