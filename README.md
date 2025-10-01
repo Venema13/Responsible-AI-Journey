@@ -1,4 +1,4 @@
-# Journey to AI Ethics, Compliance & Security Specialist 🚀  
+# Journey to AI Ethics, Compliance, Privacy & Security Specialist 🚀  
 
 Welcome to my 52-week learning journey to become an **AI Ethics, Compliance & Security Specialist**.  
 I follow a structured 1-year plan (≈ 15 hours per week) with resources, hands-on projects, and portfolio deliverables.  
