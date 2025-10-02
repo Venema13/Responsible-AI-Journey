@@ -67,7 +67,7 @@ Here I track my progress: certificates, notes, code, and projects.
 - [The National AI Course – AI and Ethics](certs/AEE-58821309.pdf)  
 - [The National AI Course – AI Literacy](certs/BAG-58821309.pdf)  
 - [University of Helsinki - Ethics of AI](certs/certificate-ethics-of-ai.png)  
-- [GDPR Foundations](certs/GDPR%20foundations%20Certificate.png)
+- [Measured Collective - GDPR Foundations](certs/GDPR%20foundations%20Certificate.png)
 
 ## 🌍 Networking  
 
