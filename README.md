@@ -1,7 +1,7 @@
 # Journey to AI Ethics, Compliance, Privacy & Security Specialist 🚀  
 
-Welcome to my 52-week learning journey to become an **AI Ethics, Compliance & Security Specialist**.  
-I follow a structured 1-year plan (≈ 15 hours per week) with resources, hands-on projects, and portfolio deliverables.  
+Welcome to my 52-week learning journey to become an **AI Ethics, Compliance, Privacy & Security Specialist**.  
+I follow a structured 1-year plan (≈ 20 hours per week) with resources, hands-on projects, and portfolio deliverables.  
 Here I track my progress: certificates, notes, code, and projects.  
 
 ---
@@ -58,11 +58,16 @@ Here I track my progress: certificates, notes, code, and projects.
 /src        → Code and scripts  
 /assets     → Images or other files  
 /weeks      → Weekly progress (notes, exercises, projects)  
-/weeks/week6/ethics/       → Bias notebook & notes  
-/weeks/week6/privacy/      → Privacy test report & fake data script  
-/weeks/week6/portfolio/    → Blog drafts ready for Medium/LinkedIn  
 
 ---
+
+## 📜 Certificates  
+
+- [University of Helsinki - Elements of AI](certs/certificate-elements-of-ai-nl.png)  
+- [The National AI Course – AI and Ethics](certs/AEE-58821309.pdf)  
+- [The National AI Course – AI Literacy](certs/BAG-58821309.pdf)  
+- [University of Helsinki - Ethics of AI](certs/certificate-ethics-of-ai.png)  
+- [GDPR Foundations](certs/GDPR%20foundations%20Certificate.png)
 
 ## 🌍 Networking  
 
@@ -93,15 +98,19 @@ Here I track my progress: certificates, notes, code, and projects.
 - `week6/portfolio/privacy_article.md` → Blog post on Privacy/Security  
 
 ✨ Key insights:  
-- **Ethics:** Bias is often hidden in datasets. Checking group differences early prevents unfair outcomes.  
-- **Security/Privacy:** Even large websites have privacy weaknesses. Small tools like Mozilla Observatory and anonymization scripts improve safety.  
+- Ethics: Bias is often hidden in datasets. Checking group differences early prevents unfair outcomes.  
+- Security/Privacy: Even large websites have privacy weaknesses. Small tools like Mozilla Observatory and anonymization scripts improve safety.  
 
+**Week 7:** Transparency & GDPR – LIME/SHAP, GDPR principles
+📂 Files added/updated:
+- /weeks/week7/Week7_Notebook.ipynb
+- /weeks/week7/Week7_Transparency_GDPR.md
+- /weeks/week7/lime_example.png
+- /weeks/week7/shap_summary.png
+
+✨ Key insights:
+- Implemented LIME and SHAP for explainable AI
+- Applied GDPR principles: data minimization, transparency, consent
+- Added documentation and visualizations for compliance
+  
 ---
-
-## 📜 Certificates  
-
-- [University of Helsinki - Elements of AI](certs/certificate-elements-of-ai-nl.png)  
-- [The National AI Course – AI and Ethics](certs/AEE-58821309.pdf)  
-- [The National AI Course – AI Literacy](certs/BAG-58821309.pdf)  
-- [University of Helsinki - Ethics of AI](certs/certificate-ethics-of-ai.png)  
-- [GDPR Foundations](certs/GDPR%20foundations%20Certificate.png)
