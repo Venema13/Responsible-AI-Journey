@@ -103,10 +103,10 @@ Here I track my progress: certificates, notes, code, and projects.
 
 **Week 7:** Transparency & GDPR – LIME/SHAP, GDPR principles
 📂 Files added/updated:
-- week7/Week7_Notebook.ipynb
-- week7/Week7_Transparency_GDPR.md
-- week7/lime_example.png
-- week7/shap_summary.png
+- `week7/Week7_Notebook.ipynb`
+- `week7/Week7_Transparency_GDPR.md`
+- `week7/lime_example.png`
+- `week7/shap_summary.png`
 
 ✨ Key insights:
 - Implemented LIME and SHAP for explainable AI
