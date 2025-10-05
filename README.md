@@ -113,4 +113,26 @@ Here I track my progress: certificates, notes, code, and projects.
 - Applied GDPR principles: data minimization, transparency, consent
 - Added documentation and visualizations for compliance
   
+**Week 8:** Amazon Hiring Bias & Data Anonymization
+
+📂 **Files added:**  
+- `/weeks/week8/ethics_security_privacy/Week8_Amazon_CaseStudy.md`  
+- `/weeks/week8/ethics_security_privacy/Week8_Case_Anon.md`  
+- `/weeks/week8/ethics_security_privacy/Week8_Notebook.ipynb`  
+- `/weeks/week8/ethics_security_privacy/synthetic_resumes.csv`  
+- `/weeks/week8/ethics_security_privacy/anonymized_resumes.csv`  
+- `/weeks/week8/ethics_security_privacy/fairness_plot.png`  
+- `/weeks/week8/portfolio/week8_blog.md`
+
 ---
+
+✨ **Key Insights:**  
+- **Bias in hiring AI**: Historical data can create unfair outcomes. The Amazon case shows why fairness checks are essential.  
+- **Data anonymization**: PII (names, emails, phone numbers) must be replaced or masked to comply with GDPR.  
+- **Fairness checks still needed**: Removing PII alone does not remove bias; synthetic labels and selection metrics help identify disparities.  
+- **Synthetic data**: Safe way to test AI pipelines without using real candidate data.  
+
+---
+
+
+
