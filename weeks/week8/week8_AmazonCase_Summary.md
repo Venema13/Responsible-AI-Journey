@@ -1,33 +1,50 @@
 # Week 8 – Amazon Hiring Bias Case Study
 
-## Background
-In 2014–2015 Amazon experimented with an internal AI recruitment tool to rank résumés and recommend candidates.  
-The system was trained on **10 years of past hiring data** from Amazon.
+## 📌 Case Overview
+In 2014, Amazon started developing an **AI recruiting system** to automatically screen CVs.  
+The goal was to make the hiring process faster and more efficient by using machine learning.  
 
-## Problem
-- Historical hiring data reflected a **male-dominated tech industry**.  
-- The AI learned patterns that favored **male applicants** over female applicants.  
-- Words such as "women’s chess club" or universities with higher female representation caused candidates to be ranked lower.  
-- Resumes containing certain male-related terms were favored.
+However, the system was trained on **historical data** dominated by male applicants in the tech sector.  
+As a result, the model **learned patterns of gender bias** and systematically downgraded CVs from women.
 
-## Key Insights
-- **Garbage in, garbage out**: if training data is biased, the model learns and amplifies it.  
-- **Sensitive attributes** (gender) don’t have to be explicitly included; proxies (words, schools, activities) still transfer bias.  
-- Even anonymized résumés are not safe if text contains gendered signals.
+---
 
-## Ethical & Compliance Concerns
-- **Fairness**: Violated equal opportunity principles.  
-- **Transparency**: Candidates were unaware of algorithmic filtering.  
-- **GDPR**: Would raise issues with automated decision-making (Art. 22 GDPR).  
-- **Reputation**: A bias scandal damages trust in both the company and AI in general.
+## ⚠️ What Went Wrong
+- The model **penalized resumes that contained the word "women"**, such as “women’s chess club captain.”  
+- Male-dominated data → algorithm concluded that **male candidates were preferable**.  
+- Attempts to fix the model by removing gender-related keywords were not successful.  
+- In the end, Amazon **abandoned the project** in 2018.
 
-## Lessons Learned
-1. **Bias detection is mandatory**: models must be tested for group fairness before deployment.  
-2. **Data minimization**: avoid including features that may act as gender proxies.  
-3. **Explainability**: techniques like SHAP/LIME can uncover why a model prefers certain terms.  
-4. **Human-in-the-loop**: AI should support, not replace, human hiring decisions.  
-5. **Governance**: Companies need compliance checks, fairness audits, and clear documentation before using AI in HR.
+---
 
-## References
-- Reuters (2018): *Amazon scraps secret AI recruiting tool that showed bias against women*.  
-- GDPR Article 22: *Automated individual decision-making, including profiling*.  
+## 🎯 Key Lessons
+
+### Ethics
+- Fairness must be built into the system design.  
+- AI should **not replicate existing human biases**.  
+
+### Security
+- Training data must be **audited and monitored** not only for accuracy, but also for bias.  
+- Continuous testing is required to detect hidden patterns.  
+
+### Privacy
+- Anonymization of personal identifiers (gender, name, school clubs, etc.) can reduce bias.  
+- Protecting Personally Identifiable Information (PII) is also a GDPR requirement.  
+
+### Compliance
+- In the EU, such a system would directly **violate GDPR** and **anti-discrimination laws**.  
+- Regulatory frameworks increasingly demand **transparency and explainability** of AI models.  
+
+---
+
+## 🔍 Reflection
+If I were designing such a system today:  
+1. I would implement **bias detection audits** during the training process.  
+2. I would use **diverse and balanced datasets** to prevent one group from being overrepresented.  
+3. I would apply **data anonymization techniques** to remove gender-linked signals.  
+4. I would ensure full **compliance with GDPR** and labor anti-discrimination regulations.  
+
+---
+
+📂 *File path in repo:*  
+`/weeks/week8/ethics_security_privacy/Week8_Amazon_CaseStudy.md`
