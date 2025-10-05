@@ -1,0 +1,58 @@
+# Week 8 Blog – Amazon Hiring Bias & Data Anonymization  
+
+In week 8 van mijn AI Ethics & Security journey heb ik mij verdiept in de **Amazon Hiring Bias case** en daarnaast een eerste versie van een **PII-anonimisatie script** gemaakt.  
+
+---
+
+## 📚 Case Study: Amazon Hiring Bias  
+Amazon gebruikte in 2014 een AI-systeem om CV’s te screenen. Het model werd getraind op historische data (oude sollicitaties). Omdat in die data **voornamelijk mannen** voorkwamen, leerde het model onbedoeld dat **man zijn een voordeel was** bij selectie.  
+
+⚠️ Het gevolg:  
+- CV’s met woorden als “women’s” (bijvoorbeeld *women’s chess club*) werden lager gescoord.  
+- Het model bevoordeelde technische termen en hobby’s die vaker bij mannen voorkwamen.  
+- Amazon moest het project uiteindelijk stopzetten.  
+
+**Les:** Bias in trainingsdata leidt direct tot bias in AI-beslissingen. Transparantie en fairness-checks zijn noodzakelijk.  
+
+---
+
+## 🔐 PII & Data Anonymization Script  
+Naast de case study heb ik in Python gewerkt aan een script dat **Persoonlijk Identificeerbare Informatie (PII)** kan detecteren en vervangen.  
+Voorbeeld PII:  
+- Namen  
+- E-mails  
+- Telefoonnummers  
+
+Met mijn script kan ik deze gegevens vervangen door **synthetische data** (bv. een nepnaam of neptelefoonnummer). Dit maakt datasets veiliger te delen voor analyse en training.  
+
+Output:  
+- **synthetic_resumes.csv** → dataset met gesimuleerde CV’s  
+- **anonymized_resumes.csv** → dataset waar PII verwijderd of vervangen is  
+
+---
+
+## ⚖️ Fairness Checks  
+Tot slot heb ik een kleine fairness-analyse uitgevoerd:  
+- Geslacht toegevoegd aan de dataset (M/F)  
+- Model-check laten zien of er verschillen waren in voorspellingen  
+- Een fairness-plot gegenereerd (*fairness_plot.png*)  
+
+**Resultaat:** Ook in synthetische data ontstaan er ongelijkheden. Dit laat zien hoe belangrijk **bias-detectie en -correctie** is.  
+
+---
+
+## ✨ Key Insights  
+- **Data = spiegel van de maatschappij** → als data biased is, dan AI ook.  
+- **Anonymization is niet genoeg** → zelfs met geanonimiseerde data kan bias blijven bestaan.  
+- **Fairness-tools** zoals plots en explainers zijn nodig om ongelijkheden zichtbaar te maken.  
+
+---
+
+📂 **Week 8 Deliverables:**  
+- `Week8_Amazon_CaseStudy.md` → Analyse Amazon case  
+- `Week8_Notebook.ipynb` → PII script + fairness checks  
+- `synthetic_resumes.csv` + `anonymized_resumes.csv`  
+- `fairness_plot.png`  
+- `week8_blog.md` (dit bestand)  
+
+---
