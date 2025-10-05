@@ -1,0 +1,38 @@
+# Week 8 – Data Anonymization & Fairness Check
+
+## 📂 File Overview
+- `synthetic_resumes.csv` → synthetic dataset with names, gender, education, experience  
+- `anonymized_resumes.csv` → anonymized dataset (PII replaced with pseudonyms)  
+- `fairness_plot.png` → simple fairness check (selection rate per gender)
+
+---
+
+## 🔐 Anonymization Process
+1. **PII removed/replaced**  
+   - Names → replaced with consistent pseudonyms  
+   - Emails → replaced with synthetic addresses  
+   - Phone numbers → replaced with synthetic numbers  
+
+2. **Consistency ensured**  
+   - Same name always maps to the same pseudonym  
+   - Prevents accidental data leaks  
+
+---
+
+## 📊 Fairness Check
+- A synthetic label (`selected`) was created to simulate a hiring decision.  
+- **Selection rate per gender** was calculated and plotted.  
+
+Example result:  
+- Male selection rate: 58%  
+- Female selection rate: 41%  
+➡️ Shows how bias can appear even in synthetic or anonymized data.  
+
+---
+
+## 🎯 Key Insights
+- **Anonymization** is a critical GDPR step to reduce risks when handling personal data.  
+- **Fairness checks** must always accompany anonymization — removing PII does not automatically remove bias.  
+- **Synthetic data** is a safe way to test pipelines without exposing real candidate data.  
+
+---
