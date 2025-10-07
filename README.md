@@ -4,34 +4,14 @@ Welcome to my 52-week learning journey to become an **AI Ethics, Compliance, Pri
 I follow a structured 1-year plan (≈ 20 hours per week) with resources, hands-on projects, and portfolio deliverables.  
 Here I track my progress: certificates, notes, code, and projects.  
 
----
-
 ## 📅 Year Plan in 4 Phases  
 
-### **Phase 1 – Core AI + Ethics & Security Foundations (Week 1-13)**  
-- University of Helsinki certificate *Elements of AI*  
-- University of Helsinki certificate *Ethics of AI*  
-- Python, statistics, and first AI notebooks (Fairness, Bias, Explainability)  
-- Introduction to **Security basics** (encryption, hashing, secure coding)  
-- First blog posts on AI, ethics, and security  
-
-### **Phase 2 – Bias, Fairness & Security in Practice (Week 14-26)**  
-- Bias notebooks with Fairlearn & IBM AIF360  
-- GDPR & EU AI Act notes  
-- Security labs: encryption, secure authentication, OWASP Top 10 basics  
-- First Model Card and Data Card  
-
-### **Phase 3 – Regulations, Governance & Cybersecurity (Week 27-39)**  
-- EU AI Act, ISO/IEC 42001 summaries  
-- Compliance checklist + audit plan  
-- SHAP & LIME explainability notebooks  
-- Security compliance (NIST, ISO 27001, AI risk frameworks)  
-
-### **Phase 4 – Advanced Topics & Job Prep (Week 40-52)**  
-- Bias dashboard with Streamlit  
-- Security mini-project (e.g., secure API design or data anonymization tool)  
-- Full portfolio + public Notion playbook  
-- Certificates + job application prep  
+| **Phase**   | **Weeks** | **Focus / Objectives**                                                                                                                                                          | **Skills & Key Deliverables**                                                                                                                                                                                                                                                              |
+| ----------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Phase 1** | 1–13      | **Foundations**: Learn the basics of AI, Python, statistics, and AI ethics. Understand explainability and GDPR essentials.                                                      | **Skills:** Python programming, basic statistics, ethical reasoning, GDPR concepts, data anonymization, LIME/SHAP explainability.<br>**Deliverables:** 3–5 notebooks, blogposts on ethics & privacy, initial Python scripts, GDPR/PII exercises.                                           |
+| **Phase 2** | 14–26     | **Bias, Fairness & Security**: Explore fairness in ML, privacy-preserving methods, security basics, AI risk assessment, and governance intro.                                   | **Skills:** Bias detection & mitigation (AIF360/Fairlearn), privacy-preserving ML, security fundamentals (hashing, encryption, AuthN/AuthZ), threat modeling, risk templates.<br>**Deliverables:** Bias reports, Data Cards, Model Cards, threat modeling document, midterm portfolio.     |
+| **Phase 3** | 27–39     | **Governance & Compliance**: Deep dive into explainability, auditing, and AI governance frameworks. Build compliance frameworks and apply them to projects.                     | **Skills:** AI governance (OECD, UNESCO), compliance checklist creation, explainability deep dive (SHAP, counterfactuals), security testing (APIs & ML), audit simulation.<br>**Deliverables:** Governance reports, compliance tracker, explainability notebooks, audit simulation report. |
+| **Phase 4** | 40–52     | **Advanced Topics & Career Prep**: Complete security mini-projects, build bias dashboards, finalize portfolio, prepare for interviews, and polish your Responsible AI playbook. | **Skills:** Streamlit dashboard design, red teaming/LLM safety, AI auditing, portfolio building, interview prep.<br>**Deliverables:** Bias dashboard, security mini-project, Responsible AI Playbook, final portfolio, mock interviews, CV & LinkedIn updates.                             |
 
 ---
 
