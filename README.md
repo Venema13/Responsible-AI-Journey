@@ -117,13 +117,13 @@ Here I track my progress: certificates, notes, code, and projects.
 **Week 8:** Amazon Hiring Bias & Data Anonymization
 
 📂 **Files added:**  
-- `/weeks/week8/ethics_security_privacy/Week8_Amazon_CaseStudy.md`  
-- `/weeks/week8/ethics_security_privacy/Week8_Case_Anon.md`  
-- `/weeks/week8/ethics_security_privacy/Week8_Notebook.ipynb`  
-- `/weeks/week8/ethics_security_privacy/synthetic_resumes.csv`  
-- `/weeks/week8/ethics_security_privacy/anonymized_resumes.csv`  
-- `/weeks/week8/ethics_security_privacy/fairness_plot.png`  
-- `/weeks/week8/portfolio/week8_blog.md`
+- `/weeks/week8/Week8_Amazon_CaseStudy.md`  
+- `/weeks/week8/Week8_Case_Anon.md`  
+- `/weeks/week8/Week8_Notebook.ipynb`  
+- `/weeks/week8/synthetic_resumes.csv`  
+- `/weeks/week8/anonymized_resumes.csv`  
+- `/weeks/week8/fairness_plot.png`  
+- `/weeks/week8/week8_blog.md`
 
 ---
 
