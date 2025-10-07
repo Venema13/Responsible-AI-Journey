@@ -15,20 +15,12 @@ Here I track my progress: certificates, notes, code, and projects.
 
 ---
 
-## 🏆 Portfolio Deliverables  
-
-- 📜 University of Helsinki “Elements of AI” certificate  
-- 📜 University of Helsinki “Ethics of AI” certificate  
-- 📜 Google Responsible-AI badge  
-- 📜 OpenLearn “Data Ethics” certificate  
-- 📓 At least 8 Jupyter notebooks (Fairlearn, AIF360, SHAP, etc.)  
-- 📄 Model Card + Data Card  
-- ✅ Compliance checklist & audit plan  
-- 📊 Streamlit bias dashboard (live demo)  
-- 🔐 Security mini-project + write-up  
-- 📚 Blog series (min. 5 posts)  
-- 🎥 Capstone video demo  
-- 💼 CV + LinkedIn update for Responsible-AI & Security roles  
+| **Phase**                 | **Key Deliverables**                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Phase 1 (Weeks 1–13)**  | - 🐍 Python notebooks (Foundations, Data Analysis) <br> - 📓 Statistics & Probability notes <br> - ✍️ Blogposts on Ethics & Responsible AI <br> - 📄 GDPR & Privacy summary <br> - 🔍 Explainability notebooks (LIME/SHAP) <br> - 🛠 PII anonymization scripts                                                                                                                               |
+| **Phase 2 (Weeks 14–26)** | - 📊 Bias reports using AIF360 / Fairlearn <br> - 🗂 Data Cards & Model Cards <br> - ⚠️ Threat modeling & security testing plans <br> - 📝 Risk assessment templates <br> - 🏗 Midterm portfolio milestone (all artifacts organized)                                                                                                                                                         |
+| **Phase 3 (Weeks 27–39)** | - 📑 Governance & Compliance reports <br> - ✅ Compliance tracker (GDPR, AI Act, ISO/NIST integration) <br> - 📘 Explainability deep dive notebooks (SHAP, Counterfactuals, PDP/ICE) <br> - 🕵️ Audit simulation reports <br> - 📊 Bias dashboard mockup / concept                                                                                                                            |
+| **Phase 4 (Weeks 40–52)** | - 📈 Interactive Bias Dashboard (Streamlit) <br> - 🔒 Security mini-project (Secure API or Anonymization Toolkit) <br> - 📖 Responsible AI Playbook (including checklists, roles, DPIA, Data/Model Cards) <br> - 💻 Capstone video demo (dashboard & audit) <br> - 📝 Blog series (3–5 posts) <br> - 💼 CV, LinkedIn update, interview prep docs <br> - 🎓 Full final portfolio (all phases) |
 
 ---
 
