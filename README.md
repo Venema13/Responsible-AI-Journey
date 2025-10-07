@@ -79,18 +79,18 @@ Here I track my progress: certificates, notes, code, and projects.
 
 ## ✍️ Update Log  
 
-**Week 1:** Repo created + joined AI Ethics Slack.  
-**Week 2:** Completed Elements of AI course + added AI terms.  
-**Week 3:** Finished 50 Python exercises (freeCodeCamp).  
-**Week 4:** Completed Statistics 101 (Khan Academy)  
+### Week 1: Repo created + joined AI Ethics Slack.  
+### Week 2: Completed Elements of AI course + added AI terms.  
+### Week 3: Finished 50 Python exercises (freeCodeCamp).  
+### Week 4: Completed Statistics 101 (Khan Academy)  
 📂 File added: `week4/stats_exercises.md`  
 ✨ Key insight: basic statistics and probability are crucial for AI fairness  
 
-**Week 5:** Completed Intro to Ethics  
+### Week 5: Completed Intro to Ethics  
 📂 File added: `week5/ethics_blog.md`  
 ✨ Key insight: AI can make mistakes and bias, ethics helps make AI safe and trustworthy  
 
-**Week 6:** Bias & Security/Privacy Basics  
+### Week 6: Bias & Security/Privacy Basics  
 📂 Files added:  
 - `week6/ethics/bias_titanic.ipynb` → Bias analysis notebook  
 - `week6/privacy/privacy_test_report.md` → Mozilla Observatory privacy/security test report  
@@ -102,7 +102,7 @@ Here I track my progress: certificates, notes, code, and projects.
 - Ethics: Bias is often hidden in datasets. Checking group differences early prevents unfair outcomes.  
 - Security/Privacy: Even large websites have privacy weaknesses. Small tools like Mozilla Observatory and anonymization scripts improve safety.  
 
-**Week 7:** Transparency & GDPR – LIME/SHAP, GDPR principles
+### Week 7: Transparency & GDPR – LIME/SHAP, GDPR principles
 📂 Files added/updated:
 - `week7/Week7_Notebook.ipynb`
 - `week7/Week7_Transparency_GDPR.md`
@@ -114,8 +114,7 @@ Here I track my progress: certificates, notes, code, and projects.
 - Applied GDPR principles: data minimization, transparency, consent
 - Added documentation and visualizations for compliance
   
-**Week 8:** Amazon Hiring Bias & Data Anonymization
-
+### Week 8: Amazon Hiring Bias & Data Anonymization
 📂 **Files added:**  
 - `/weeks/week8/Week8_Amazon_CaseStudy.md`  
 - `/weeks/week8/Week8_Case_Anon.md`  
@@ -125,15 +124,28 @@ Here I track my progress: certificates, notes, code, and projects.
 - `/weeks/week8/fairness_plot.png`  
 - `/weeks/week8/week8_blog.md`
 
----
-
 ✨ **Key Insights:**  
 - **Bias in hiring AI**: Historical data can create unfair outcomes. The Amazon case shows why fairness checks are essential.  
 - **Data anonymization**: PII (names, emails, phone numbers) must be replaced or masked to comply with GDPR.  
 - **Fairness checks still needed**: Removing PII alone does not remove bias; synthetic labels and selection metrics help identify disparities.  
 - **Synthetic data**: Safe way to test AI pipelines without using real candidate data.  
 
----
+### Week 9 – Explainability & PII Detection
+**Focus:** SHAP model explainability and personal data (PII) detection in datasets.  
+**Goal:**  
+- Understand model decisions using SHAP  
+- Detect personal data (emails/phones) to ensure GDPR compliance  
+- Document and visualize results  
+
+📂**Files added:**
+- `/weeks/week9/Week9_Notebook.ipynb` → Python notebook with model, SHAP, PII detection  
+- `/weeks/week9/Week9_Explainability.md` → Markdown notes on SHAP explainability  
+- `/weeks/week9/Week9_PII_Report.md` → PII detection report   
+
+✨**Key Insights:**
+- SHAP helps understand which features most influence model decisions  
+- Text features like skills and extra_text contribute to predictions  
+- PII detection ensures GDPR compliance before using datasets  
 
 
 
